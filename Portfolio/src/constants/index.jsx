@@ -158,14 +158,14 @@ export const EDUCATION = [
     institution: "Kerala Public School Kadma",
     duration: "2018-2019",
     description:
-      "The ICSE (Indian Certificate of Secondary Education) Class 10 board exam is conducted by the CISCE (Council for the Indian School Certificate Examinations) and is known for its comprehensive curriculum that emphasizes both theoretical knowledge and practical skills. The exam covers a wide range of subjects including languages, mathematics, sciences, and social studies. It is recognized for its balanced approach to education, promoting analytical thinking and problem-solving abilities in students.",
+      "I secured a score of 83% in the board examinations. The curriculum provided a strong foundation in languages, mathematics, sciences, and social studies, emphasizing both theoretical understanding and practical application of concepts.",
   },
   {
     degree: "12th ISC Board",
     institution: "Kerala Public School Kadma",
     duration: "2019-2020",
     description:
-      "The ISC (Indian School Certificate) Class 12 board exam is conducted by the CISCE and is designed to assess students' proficiency in a variety of subjects, including sciences, commerce, and humanities. It emphasizes both depth and breadth of knowledge, preparing students for higher education and professional courses. The exam focuses on analytical thinking, practical applications, and a comprehensive understanding of the chosen subjects.",
+      "I secured a score of 82% in the board examinations. Specialized pure Science with Physics, Chemistry,Mathematics and Computer Science with Java as primary language, gaining in-depth knowledge and preparing for higher education with a focus on JEE Main Exams.",
   },
   {
     degree: "Bachelor of Technology in Computer Science and Technology (Pursuing)",
